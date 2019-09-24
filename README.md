@@ -1,5 +1,5 @@
 # django-models-cw
-
+#### You managed to make both models. You filled both with the rquired amount of information. You missed one column of information on your account model(Account Number) 4/5 Score 7/8
 ### Exercise 1
 Add a new Dog model to your schema. Give it the fields: name, breed, color, and gender. Name should be a dog name, breed should be dog breed, color should be the color of the dog, and gender should be the gender of the dog.
 
